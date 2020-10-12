@@ -29,12 +29,13 @@ public class Euclid {
         }
         return p;
     }
-
+    
+    // main method
     public static void main(String[] args) {
         int p = Integer.parseInt(args[0]);
         int q = Integer.parseInt(args[1]);
-        int d  = gcd(p, q);
-        int d2 = gcd2(p, q);
+        int d  = gcd(p, q); //resursion
+        int d2 = gcd2(p, q); //while loop
         System.out.println("gcd(" + p + ", " + q + ") = " + d);
         System.out.println("gcd(" + p + ", " + q + ") = " + d2);
     }
