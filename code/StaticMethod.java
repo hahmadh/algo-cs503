@@ -20,7 +20,7 @@ class StaticMethod {
 		System.out.println(Geek.geekName); 
 		
 		// Accessing the static method geek() by using Object's reference. 
-		Geek obj = new Geek(); 
+		Geek obj = new Geek(); // we are creating an object of Geek Class
 		obj.geek("mohit"); 
 		System.out.println(obj.geekName); 
 		
