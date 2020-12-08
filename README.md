@@ -2,7 +2,7 @@
 
 ### Lecture: Monday 30-11-2020
 ## Logrithims
-[Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
+[Logarithms Explain (Math is Fun)](https://www.mathsisfun.com/algebra/logarithms.html)
 
 ### Euclidean Algorithm
 
